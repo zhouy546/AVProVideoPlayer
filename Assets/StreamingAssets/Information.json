@@ -1,0 +1,93 @@
+{
+
+	"information": 
+		{
+         
+            "video":[
+                {
+                
+                 "udp":"2000",
+                 "loop":false,
+                "url":"video.mp4",
+                "iscreenprotect":false
+                },
+                {
+                 
+                "udp":"2001",
+                 "loop":true,
+                "url":"pb.mp4",
+                "iscreenprotect":true
+                }
+            ],          
+            
+            
+            "image":[
+                {
+                "udp":"20000",
+                "url":"01.png"
+                },
+                {
+                "udp":"20001",
+                "url":"02.png"
+                },
+                {
+                "udp":"20002",
+                "url":"03.png"
+                }
+            ],
+            
+            "WelcomeWord":"苏州市高新区（虎丘区）欢迎您",
+            
+            "WelcomWordUDP":"30000",
+            
+            "PPTURL":"D:\\ppt.pptx",
+            
+            "PPTEditorhandler":"ppt.pptx - PowerPoint",
+            
+            "mute":"2005",          
+            
+            "pause":"2002",
+           
+            "fastforward":"2006",
+            
+            "fastreverse":"2007",
+            
+            "volumeup":"10000",
+            
+            "volumedown":"10001",
+            
+            "pptNextUDP":"3002",
+            
+            "pptPerviousUDP":"3001",
+            
+            "popupPPTUDP":"3000",
+            
+            "xpos":-1,
+            
+             "ypos":-1,
+            
+            "screenwidth":3584,
+            
+            "screenheight":1152,
+            
+            "ProgramName":"AVProVideoPlayer",
+            
+            "LightServer":"192.168.3.178",
+            
+            "lightServerPort":29010,
+            
+            "lightOn":[
+                "1202","1204"
+            ],
+            
+            "lightOff":[
+                "1203","1205"
+            ]
+
+            
+            
+
+		}
+    
+    
+}
